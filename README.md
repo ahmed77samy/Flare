@@ -1,3 +1,3 @@
-# Tokyo-Portfolio
+# Flare-Portfolio
 
-[Tokyo-Portfolio](https://eloquent-lalande-3ecd4f.netlify.app/)
+[Flare-Portfolio](https://ahmed77samy.github.io/Flare/)
